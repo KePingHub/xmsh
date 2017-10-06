@@ -1,0 +1,25 @@
+{
+  "carts": [
+    {
+      "selected": true,
+      "count": 5,
+      "goodId": 40549,
+      "goodName": "B.Toys/比乐 回转遥控车-幽浮",
+      "goodPrice": "259.00",
+      "goodPicUrl": "http://img.xingmeihui.com/upload/system/self_goods/059d7e06-d74c-4c5a-b4c8-aebdf5999b70.jpg",
+      "inventoryCount": 4,
+      "totalPrice": 1295,
+      "id": 1
+    }
+  ],
+  "collects": [
+    {
+      "goodId": 40549,
+      "goodName": "B.Toys/比乐 回转遥控车-幽浮",
+      "goodPrice": "259.00",
+      "goodPicUrl": "http://img.xingmeihui.com/upload/system/self_goods/059d7e06-d74c-4c5a-b4c8-aebdf5999b70.jpg",
+      "inventoryCount": 4,
+      "id": 1
+    }
+  ]
+}
